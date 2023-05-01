@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:boder-box;
+}
+.position {
+  position:absolute;
+  top:100px;
+  right:40px;
+}
+.social i {
+  font-size:32px;
+}
